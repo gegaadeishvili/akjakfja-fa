@@ -1,0 +1,77 @@
+.firstH1 {
+  color: deeppink;
+}
+.nuki1 {
+  width: auto;
+  height: 450px;
+}
+.firstP {
+  color: deeppink;
+}
+.images > img {
+  width: 520px;
+  height: 450px;
+}
+.images {
+  display: flex;
+}
+.mainDiv > img {
+  width: 520px;
+  height: 450px;
+}
+.mainDiv {
+  display: flex;
+}
+.rrre {
+  color: red;
+}
+.jkjfka {
+  width: 600px;
+}
+.firstDiv {
+  position: absolute;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+}
+.body2 {
+  background-color: blueviolet;
+}
+.myButton{
+    width: 200px;
+    color: white;
+    background-color: cyan;
+    height: 150px;
+}
+.myButton2{
+    width: 200px;
+    color: white;
+    background-color: rgb(255, 0, 0);
+    height: 150px;
+}
+.myButton3{
+    width: 200px;
+    color: white;
+    background-color: rgb(216, 226, 14);
+    height: 150px;
+}
+.myButton4{
+    width: 200px;
+    color: white;
+    background-color: rgb(255, 0, 191);
+    height: 150px;
+}
+.thththht{
+    gap: 50px;
+}
+.body3{
+    background-color: yellow;
+}
+.body4{
+    background-color: chartreuse;
+}
+.body5{
+    background-color: fuchsia;
+}
